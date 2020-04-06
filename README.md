@@ -3,5 +3,6 @@ How to use game
 2. input TeamA values (Example: 30, 100, 20, 50, 40)
 3. input TeamB values (Example: 30, 100, 20, 50, 40)
 
-TeamA will win her all members level more than TeamB or equal
+TeamA will win if all members level more than TeamB or equal.
+
 Video how game works: https://www.screencast.com/t/SdFMn0eP1F
